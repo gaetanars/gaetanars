@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0D1117&height=220&section=header&text=Gaetan%20Arousez&fontSize=60&fontColor=E0E0E0&animation=fadeIn&fontAlignY=38&desc=Engineering%20Director%20%7C%20Platform%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Gaetan Arousez — Engineering Director | Platform Engineer | AI Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0D1117&height=220&section=header&text=Gaetan%20Ars&fontSize=60&fontColor=E0E0E0&animation=fadeIn&fontAlignY=38&desc=Engineering%20Director%20%7C%20Platform%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Gaëtan Ars — Engineering Director | Platform Engineer | AI Builder" />
 
 <div align="center">
 
@@ -45,17 +45,21 @@ AI-augmented engineering is at the core of how I work: from intelligent automati
 **CI/CD & GitOps**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 **Cloud**
 
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **AI / LLM**
 
