@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0D1117&height=220&section=header&text=Gaetan%20Ars&fontSize=60&fontColor=E0E0E0&animation=fadeIn&fontAlignY=38&desc=Engineering%20Director%20%7C%20Platform%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Gaëtan Ars — Engineering Director | Platform Engineer | AI Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0D1117&height=220&section=header&text=Gaëtan%20Ars&fontSize=60&fontColor=E0E0E0&animation=fadeIn&fontAlignY=38&desc=Engineering%20Director%20%7C%20Platform%20Engineer%20%7C%20AI%20Builder&descSize=20&descAlignY=58&descAlign=50" alt="Gaëtan Ars — Engineering Director | Platform Engineer | AI Builder" />
 
 <div align="center">
 
